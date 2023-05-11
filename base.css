@@ -118,6 +118,10 @@ article p.price {
   text-align: right;
 }
 
+p.description {
+  min-height: 5rem;
+}
+
 /* FOOTER */
 
 footer a {
